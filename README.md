@@ -8,11 +8,7 @@
 - Поддержка русского языка в консоли
 - Анимация с котиком 😺
 
-## Как запустить
-1. Склонируйте репозиторий
-2. Скомпилируйте: `g++ calculator.cpp -o calculator`
-3. Запустите: `./calculator`
-
+1. Или откройте
 ## Автор
 **TersyPC**  
 Telegram: [@asaad23123](https://t.me/asaad23123)  
@@ -31,11 +27,6 @@ My first C++ learning project is a simple console calculator.
 - Zero division check
 - Russian console support
 - Cat animation 😺
-
-## How to run
-1. Clone the repository
-2. Compile: `g++ calculator.cpp -o calculator`
-3. Run: `./calculator`
 
 ## Author
 **TersyPC** 
